@@ -44,10 +44,10 @@ This project follows a systematic workflow, including:
 
 Several data mining techniques can be applied in this project, including:
 
-👉 **Decision Trees:** Used for asteroid classification based on their attributes.
-👉 **Random Forest:** An ensemble algorithm to improve classification accuracy.
-👉 **Logistic Regression:** Predicts whether an asteroid is hazardous or non-hazardous.
-👉 **K-Means Clustering:** Identifies patterns and groups asteroids based on similarities.
+👉 **Decision Trees:** Used for asteroid classification based on their attributes.<br>
+👉 **Random Forest:** An ensemble algorithm to improve classification accuracy.<br>
+👉 **Logistic Regression:** Predicts whether an asteroid is hazardous or non-hazardous.<br>
+👉 **K-Means Clustering:** Identifies patterns and groups asteroids based on similarities.<br>
 
 ## Usage
 
