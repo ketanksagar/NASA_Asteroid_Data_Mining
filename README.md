@@ -10,7 +10,7 @@ the hazardous and non-hazardous asteroids.
 
 This repository hosts a data mining project focused on classifying asteroids using a dataset provided by NASA. The primary objective of this project is to employ data mining techniques to predict whether an asteroid is hazardous or non-hazardous based on its various attributes.
 
-## Dataset
+## Dataset for NASA Asteroid Classification
 
 The dataset used in this project can be found on Kaggle: [NASA Asteroids Classification](https://www.kaggle.com/shrutimehta/nasa-asteroids-classification). It includes a collection of features related to asteroids, including their orbital characteristics and physical properties.
 
